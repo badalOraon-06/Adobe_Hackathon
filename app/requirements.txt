@@ -1,3 +1,0 @@
-PyMuPDF==1.23.7
-layoutparser[ocr]
-Pillow
