@@ -1,0 +1,330 @@
+{
+  "title": "6",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Classification",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Nomenclature",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "161 Haloalkanes and Haloarenes",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Table 6.1: Common and IUPAC Names of some Halides",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Example 6.1",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Example 6.2",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Solution",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Intext Question",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "C-X Bond",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "163 Haloalkanes and Haloarenes",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Enthalpies and Dipole Moments",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Example 6.3",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Solution",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "165 Haloalkanes and Haloarenes",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Haloarenes",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Intext Questions",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Properties",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "167 Haloalkanes and Haloarenes",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Table 6.3: Density of Some Haloalkanes",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Intext Question",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Reactions",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "169 Haloalkanes and Haloarenes",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Table 6.4: Nucleophilic Substitution of Alkyl Halides (R– X )",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Example 6.5",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Solution",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "C and -OH. These two processes take place simultaneously in a",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "171 Haloalkanes and Haloarenes",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "173 Haloalkanes and Haloarenes",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Example 6.6",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Example 6.7",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "175 Haloalkanes and Haloarenes",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Example 6.8",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "177 Haloalkanes and Haloarenes",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Solution",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "179 Haloalkanes and Haloarenes",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Elimination versus substitution",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "181 Haloalkanes and Haloarenes",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "183 Haloalkanes and Haloarenes",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "Example 6.9",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "Solution",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "185 Haloalkanes and Haloarenes",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "Intext Questions",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "Compounds",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "187 Haloalkanes and Haloarenes",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "Summary",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 30
+    },
+    {
+      "level": "H1",
+      "text": "Exercises",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "189 Haloalkanes and Haloarenes",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "191 Haloalkanes and Haloarenes",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 34
+    }
+  ]
+}

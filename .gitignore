@@ -3,9 +3,9 @@ test_extractor.py
 test_local.py
 create_test_pdf.py
 
-# Test data and outputs
-input/*.pdf
-output/*.json
+# Test data and outputs - COMMENTED OUT TO INCLUDE IN REPO
+# input/*.pdf
+# output/*.json
 
 # Python cache
 __pycache__/
