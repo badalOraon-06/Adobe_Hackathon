@@ -6,9 +6,9 @@ TESTING_GUIDE.md
 DOCKER_COMMANDS.md
 TEST_RESULTS.md
 
-# Test data and outputs (not needed for submission)
-input/
-output/
+# Test data and outputs - ALLOW FOR SHOWCASE
+# input/
+# output/
 
 # Python cache
 __pycache__/
