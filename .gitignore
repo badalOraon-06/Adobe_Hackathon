@@ -2,10 +2,13 @@
 test_extractor.py
 test_local.py
 create_test_pdf.py
+TESTING_GUIDE.md
+DOCKER_COMMANDS.md
+TEST_RESULTS.md
 
-# Test data and outputs - COMMENTED OUT TO INCLUDE IN REPO
-# input/*.pdf
-# output/*.json
+# Test data and outputs (not needed for submission)
+input/
+output/
 
 # Python cache
 __pycache__/
@@ -31,9 +34,6 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Docker
-.dockerignore
 
 # Temporary files
 *.tmp
